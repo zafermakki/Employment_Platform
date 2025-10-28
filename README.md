@@ -10,4 +10,5 @@ A digital platform that connects tech engineers with software companies in Syria
 
 🛠️ Technologies Used:
     Frontend: Next.js + TypeScript + Tailwind CSS + MUI.
+    
     Backend: Django + MySQL.
